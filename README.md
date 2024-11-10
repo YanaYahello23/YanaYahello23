@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YanaYahello23
+- 👋 Hi, I’m Yana Yahello
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Next.js and what can be done by using LangChain
 - 💞️ I’m looking to collaborate on ...
